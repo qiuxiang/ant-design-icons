@@ -1,0 +1,11 @@
+{
+  "name": "@ant-design/icons",
+  "version": "0.0.1",
+  "scripts": {
+    "start": "copy 'node_modules/@ant-design/icons/dist/**/*.d.ts' ."
+  },
+  "devDependencies": {
+    "@ant-design/icons": "^4.2.2",
+    "copy": "^0.3.2"
+  }
+}
