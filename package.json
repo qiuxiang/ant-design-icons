@@ -1,6 +1,6 @@
 {
   "name": "@ant-design/icons",
-  "version": "0.0.1",
+  "version": "4.2.2",
   "scripts": {
     "start": "copy 'node_modules/@ant-design/icons/dist/**/*.d.ts' ."
   },
